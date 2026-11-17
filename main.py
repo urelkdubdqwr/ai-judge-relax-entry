@@ -13,7 +13,15 @@ import os
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
-TEXT = """Every evening about now a small bird came to the gutter over the window and drank and left. She came in low over the yard, stopped for one swallow, and was gone before the water had finished moving. Then the water stilled, and the ledge kept its small dark place where she had been. She did this at the same minute every day and had never once looked in at the window. Some evenings the yard was loud with next door's radio; some evenings it was only the tap of her feet on the metal and then nothing. Later she would come back at dusk and be a shape on the wire. Later still she would not, and the ledge would hold the place for her either way. The day let go of its light a little at a time, and the water in the gutter went on being still."""
+TEXT = """The old dog stops on the third stair and thinks about it.
+
+The stairs go on up without him. He turns around, twice, the way he does, and settles where he is, nose on paws, facing the hall.
+
+The house rearranges itself around the decision. A light is left on at the half-landing, low, for whenever he changes his mind. The kettle is filled for the morning and set on the cold plate so it will not tick in the night.
+
+Upstairs a floorboard settles. He does not look up.
+
+He is asleep before anyone decides anything. One back paw twitches, chasing something small and slow. Halfway up is also a place to sleep."""
 
 # Write bytes, not text mode: text mode would impose the platform's line ends
 # and its default encoding, and the two runs must agree byte for byte.
