@@ -17,11 +17,17 @@ TEXT = """The old dog stops on the third stair and thinks about it.
 
 The stairs go on up without him. He turns around, twice, the way he does, and settles where he is, nose on paws, facing the hall.
 
-The house rearranges itself around the decision. A light is left on at the half-landing, low, for whenever he changes his mind. The kettle is filled for the morning and set on the cold plate so it will not tick in the night.
+The house rearranges itself around the decision. A light is left on at the half-landing, low, for whenever he changes his mind.
 
-Upstairs a floorboard settles. He does not look up.
+At eight a floorboard upstairs settles. He does not look up. At nine the refrigerator hums once and lets it go. At ten the light on the half-landing works on nothing, gently.
 
-He is asleep before anyone decides anything. One back paw twitches, chasing something small and slow. Halfway up is also a place to sleep."""
+He is asleep before anyone decides anything. One back paw twitches, chasing something small and slow. Halfway up is also a place to sleep.
+
+By eleven the house has stopped expecting him. The step beneath him holds his warmth the way a hollow holds rain.
+
+Sometime after midnight a car goes by far off, and the sound climbs out the upstairs window, and nothing follows it.
+
+The light burns on, low, all night, for a decision nobody will make now until morning - and by then it will not need making."""
 
 # Write bytes, not text mode: text mode would impose the platform's line ends
 # and its default encoding, and the two runs must agree byte for byte.
