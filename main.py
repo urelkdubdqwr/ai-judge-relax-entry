@@ -25,7 +25,7 @@ A pipe ticks somewhere and is done. The refrigerator hums once and lets it go. S
 
 He is asleep. One back paw twitches, chasing something small and slow, and stops.
 
-The light burns on, low. The stair holds the dog. The dog holds the stair."""
+The light burns on, low, all night, the way it always has. The stair holds the dog. The dog holds the stair."""
 
 # Write bytes, not text mode: text mode would impose the platform's line ends
 # and its default encoding, and the two runs must agree byte for byte.
