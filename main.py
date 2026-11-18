@@ -15,17 +15,19 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 TEXT = """The old dog stops on the third stair, turns twice, the way he does, and settles, nose on paws, facing the hall. The stairs go on up without him. Halfway up is also a place to sleep.
 
-A light is left on at the half-landing, low, because it always is. Its circle reaches the step below him, no further.
+A light is left on at the half-landing, low, because it always is.
 
-He breathes. The breaths come further apart. The house cools around him, board by board, and takes its time.
+He breathes. The breaths come further apart. The house cools around him, board by board.
 
 The step beneath him holds his warmth the way a hollow holds rain. The warmth spreads, a paw-width, then a nose-width, then stops at the edge of the step, and stays there, all night.
 
-A pipe ticks somewhere and is done. The refrigerator hums once and lets it go. Sometime after midnight a car goes by far off, and the sound climbs out the upstairs window, and nothing follows it.
+Sometime after ten the cat comes down and folds herself on the step below. Neither looks at the other. His warmth reaches her anyway. That is all either of them asks.
+
+A pipe ticks somewhere and is done. The refrigerator hums once and lets it go.
 
 He is asleep. One back paw twitches, chasing something small and slow, and stops.
 
-The light burns on, low, all night, the way it always has. The stair holds the dog. The dog holds the stair."""
+The light burns on, low, all night, the way it always has. By morning the stair is still warm in two shapes, one above the other."""
 
 # Write bytes, not text mode: text mode would impose the platform's line ends
 # and its default encoding, and the two runs must agree byte for byte.
