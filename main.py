@@ -17,17 +17,15 @@ TEXT = """The old dog stops on the third stair, turns twice, the way he does, an
 
 A light is left on at the half-landing, low, because it always is.
 
-He breathes. The breaths come further apart. The house cools around him, board by board.
+He breathes. One breath, then a longer quiet, then a breath that comes late, and comes anyway. The house cools around him, board by board.
 
-The step beneath him holds his warmth the way a hollow holds rain. The warmth spreads, a paw-width, then a nose-width, then stops at the edge of the step, and stays there, all night.
+The step beneath him holds his warmth the way a hollow holds rain. It spreads, a paw-width, then a nose-width, then stops at the edge of the step, and stays there, all night.
 
 Sometime after ten the cat comes down and folds herself on the step below. Neither looks at the other. His warmth reaches her anyway. That is all either of them asks.
 
-A pipe ticks somewhere and is done. The refrigerator hums once and lets it go.
-
 He is asleep. One back paw twitches, chasing something small and slow, and stops.
 
-The light burns on, low, all night, the way it always has. By morning the stair is still warm in two shapes, one above the other."""
+The light burns on, low, all night, the way it always has. By morning the step still holds two shapes of warmth, one above the other. There is nothing left for the house to cool."""
 
 # Write bytes, not text mode: text mode would impose the platform's line ends
 # and its default encoding, and the two runs must agree byte for byte.
